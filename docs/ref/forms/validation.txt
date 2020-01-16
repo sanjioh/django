@@ -256,7 +256,7 @@ available and for an example of how to write a validator.
 Form field default cleaning
 ---------------------------
 
-Let's first create a custom form field that validates its input is a string
+Let's first create a custom form field that validates its input as a string
 containing comma-separated email addresses. The full class looks like this::
 
     from django import forms
